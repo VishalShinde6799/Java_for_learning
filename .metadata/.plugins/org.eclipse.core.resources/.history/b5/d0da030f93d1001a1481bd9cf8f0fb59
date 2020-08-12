@@ -1,0 +1,14 @@
+package com.zensar.main;
+
+import com.zensar.threads.PingPong;
+
+public class ThreadTest {
+	
+	public static void main(String[] args) {
+		PingPong t1= new PingPong("ping", 800);
+		Thread t2 = new PingPong("Pong", 800);
+		t2.start();
+		t1.start();
+	}
+
+}

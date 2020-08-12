@@ -1,0 +1,5 @@
+java;What is JVM?;JVM is java virtual Machine
+java;What is JDK?;JDK is Java Development Kit
+oops;What is class;A class is blueprint of object
+java;Strings are immutable?;True
+oops;OOP Stands for?;Object Oriented Programing

@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_2
+H:\ZENSAR_ESD\MODULE2_JAVA\Programs\.metadata\.plugins\org.eclipse.core.resources\.projects\PyBasics\com.python.pydev.analysis\v2_indexcache
+Abc.__init__|1581954308127957000|H:\ZENSAR_ESD\MODULE2_JAVA\Programs\PyBasics\Abc\__init__.py
+Abc.PyFirst|1587895922613730000|H:\ZENSAR_ESD\MODULE2_JAVA\Programs\PyBasics\Abc\PyFirst.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=H:\ZENSAR_ESD\MODULE2_JAVA\Programs\PyBasics\Abc\PyFirst.py
+4=ABC
+5=ABC.set_name
+6=ABC.__init__
+2=Abc.PyFirst
+3=ABC.set_count
+-- END DICTIONARY
+-- START TREE 1
+2
+a|1|a!1^46#5*19@
+abc|1|ABC!1^7#7*17@
+-- END TREE
+-- START TREE 2
+10
+__c|1|__count!3&1^24#9*19@
+__i|1|__init__!4&1^11#9*18@
+__n|1|__name!5&1^28#9*19@
+cou|2|count!4&1^8#5*19@count!6&1^12#9*19@
+del|2|del_name!4&1^35#9*18@del_count!4&1^31#9*18@
+dis|1|display!4&1^41#9*18@
+get|2|get_count!4&1^15#9*18@get_name!4&1^19#9*18@
+nam|2|name!4&1^9#5*19@name!6&1^13#9*19@
+set|2|set_count!4&1^23#9*18@set_name!4&1^27#9*18@
+v1|1|v1!4&1^40#5*19@
+-- END TREE
